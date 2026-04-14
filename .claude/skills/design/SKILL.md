@@ -1,6 +1,6 @@
 ---
 name: ckm:design
-description: "Umbrella design coordinator that packages logo generation, corporate identity programs (CIP), brand mockups, design tokens, icons, and social photos together. Use for 'design a logo', 'create a CIP', 'generate a brand style guide', 'design an app icon', or multi-artifact design deliverables."
+description: "Umbrella design coordinator packaging logo, CIP (corporate identity program), brand mockups, design tokens, icons, and social photos. Use for 'design a logo', 'create a CIP', 'brand style guide', 'design an app icon', or multi-artifact design deliverables."
 argument-hint: "[design-type] [context]"
 license: MIT
 metadata:
