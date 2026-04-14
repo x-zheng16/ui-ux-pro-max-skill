@@ -1,11 +1,11 @@
 ---
 name: ckm:banner-design
-description: "Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direction options with AI-generated visuals. Actions: design, create, generate banner. Platforms: Facebook, Twitter/X, LinkedIn, YouTube, Instagram, Google Display, website hero, print. Styles: minimalist, gradient, bold typography, photo-based, illustrated, geometric, retro, glassmorphism, 3D, neon, duotone, editorial, collage. Uses ui-ux-pro-max, frontend-design, ai-artist, ai-multimodal skills."
+description: "Design banners for social media, ads, website heroes, and print with multiple art directions. Covers Facebook, Twitter, LinkedIn, YouTube, Instagram, Google Display, and print formats across styles from minimalist to glassmorphism."
 argument-hint: "[platform] [style] [dimensions]"
 license: MIT
 metadata:
   author: claudekit
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # Banner Design - Multi-Format Creative Banner System
